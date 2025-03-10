@@ -9,11 +9,8 @@ Este projeto é uma cópia do jogo PokeDoku, no qual os jogadores devem preenche
 
 ## Tecnologias Utilizadas
 HTML5: Estrutura principal do jogo.
-
 CSS3: Estilização e layout responsivo.
-
 JavaScript: Lógica do jogo e interação com a PokeAPI.
-
 PokeAPI: Fonte de dados para informações sobre Pokémons.
 
 ## Licença
