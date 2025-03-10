@@ -8,10 +8,10 @@ Este projeto é uma cópia do jogo PokeDoku, no qual os jogadores devem preenche
 4. Complete todas as células corretamente para vencer o jogo.
 
 ## Tecnologias Utilizadas
-HTML5: Estrutura principal do jogo.
-CSS3: Estilização e layout responsivo.
-JavaScript: Lógica do jogo e interação com a PokeAPI.
-PokeAPI: Fonte de dados para informações sobre Pokémons.
+- HTML5: Estrutura principal do jogo.
+- CSS3: Estilização e layout responsivo.
+- JavaScript: Lógica do jogo e interação com a PokeAPI.
+- PokeAPI: Fonte de dados para informações sobre Pokémons.
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT.
